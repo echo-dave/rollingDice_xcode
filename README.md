@@ -1,3 +1,10 @@
+![Street Dice](Documentation/Simulator_iPhone13_Pro.jpg)
+
+# Street Dice
+Just roll some dice on the street. A simple exercise for iOS app building with a little bit of a fuzzy dice street theme.
+
+<hr />
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
